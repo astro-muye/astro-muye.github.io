@@ -1,29 +1,26 @@
 # Site settings
 title: 牧野天文台
-SEOTitle: 牧野天文台——让灵魂放牧在繁星灿烂的原野
+SEOTitle: 牧野天文台——中国本科生/研究生天文学社区
 header-img: img/IMG_4829.JPG
 email: foisliu1054@outlook.com
 description: "中国本科生/研究生天文学社区"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
+keyword: "中国本科生/研究生天文学社区"
 url: "https://astro-muye.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/astro-muye/astro-muye.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you're going to be!"
+sidebar-about-description: "目前网站处于刚刚建立阶段，负责人是山东大学物理系本科生<a href=“foisliu.github.io/resume”>刘羲和</a>
+。
+我们热烈欢迎国内的天文学本科生与研究生加入，来扩展牧野天文台的社区规模！"
 sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-# zhihu_username:     qiubaiying
-# github_username:    qiubaiying
-# facebook_username:  baiying.qiu.7
-# jianshu_username:   e71990ada2fd
-# twitter_username:   qiubaiying
+# github_username:   astro-muye
 
 
 
@@ -55,33 +52,6 @@ kramdown:
 
 
 
-# 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
-
-# Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: d18b343dd9c7ca49518a                            #生成的clientID
-  clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
-
-
-# 统计
-
-# Analytics settings
-# Baidu Analytics
-# ba_track_id: b50bf2b12b5338a1845e33832976fd68
-
-# Google Analytics
-# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-# ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-
-
-
 
 
 # Featured Tags
@@ -93,19 +63,3 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
-
-
-
-# 友情链接，请尽量不要删除，谢谢！
-friends: [
-    {
-        title: "星球国际语",
-        href: "https://globien.gitee.io"
-    },{
-        title: "星球语互动社区",
-        href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
-    },{
-        title: "知乎：人造国际语",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
-    }
-]
