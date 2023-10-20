@@ -1,16 +1,9 @@
-本项目仅仅是为了前来Fork的朋友保留的，原则上不再更新。本项目示范网站地址为：https://klovien.github.io 。
+“在夜空下不懈前行，放牧历代的星野。”
 
-三叶草国际语已更名为“格罗比言·全球语”，新的项目地址为：
+牧野天文台是自2023年以来由中国本科生和研究生搭建的天文学学术交流社区。我们的工作是主要有以下几项：
 
-* 中文版：https://gitee.com/globien/globien
-* 英文版：https://github.com/globien/globien.github.io
-
-### 致谢
-
-1. 这个模板是从这里 [BY](https://github.com/qiubaiying/qiubaiying.github.io) fork 的, 感谢作者BY。 
-2. BY的模板应该是从这个模板 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 也一起感谢一下。
-3. 感谢 Jekyll、Github Pages 和 Bootstrap!
-
-### License
-
-遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/klovien/klovien.github.io/blob/master/LICENSE)。
+1.（主要）天文快讯：每日进行天体物理学文献期刊交流，以简短的形式呈现一篇有趣的论文，可供对天文学科研感兴趣的本科生、研究生阅读。
+2.年轻的星辰：定期发表本科生科研经历分享报告，帮助对天文学感兴趣的本科生了解天文学；
+3.Astro大家说：定期对世界各地杰出天文学家进行专访，讲述大师的求学经历，为满怀天文热情的年轻人们提供建议；
+4.星罗棋布party：发布每周一次的天体物理party预告，party上会有激烈的讨论与头脑风暴，无数的新奇点子将会被提出。我们会将party记录发布在网站上；
+5.逐星前行：定期分享天文领域本科生、研究生申请、升学经验，为各位即将申请Phd/Postdoc的同学提供建议与帮助。
