@@ -11,7 +11,7 @@ github_repo: "https://github.com/astro-muye/astro-muye.github.io" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "目前网站处于刚刚建立阶段，负责人是山东大学物理系本科生刘羲和。我们热烈欢迎国内的天文学本科生与研究生加入，来扩展牧野天文台的社区规模！"
+sidebar-about-description: "目前网站处于刚刚建立阶段，搭建者是山东大学物理系本科生刘羲和。我们热烈欢迎国内的天文学本科生与研究生加入，来扩展牧野天文台的社区规模！"
 
 
 # SNS settings
